@@ -45,5 +45,5 @@ Al ejecutar python src/main.py se abrira una ventana en vivo con los siguientes 
 
 
 
-![Demostración del Sistema](images_detecciones/Ejemplo.png)
+![Demostración del Sistema](Ejemplo.png)
 
