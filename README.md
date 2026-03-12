@@ -42,7 +42,8 @@ Al ejecutar python src/main.py se abrira una ventana en vivo con los siguientes 
   - Tecla g: Comienza a ejecutar la captura de video por CPU
 
 
-
+En la imagen se ha usado nvtop para la muestra del rendimiento.
+Para descargar ejecutar: sudo apt install nvtop
 
 
 ![Demostración del Sistema](Ejemplo.png)
