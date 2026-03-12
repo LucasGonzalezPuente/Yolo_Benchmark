@@ -7,7 +7,7 @@ Recomendado el uso de miniConda para gestionar el entorno
   - conda create -n vision python=3.10 -y
   - conda activate vision
 
-  ## Instalar librerías necesarias
+  🛠️ Configuración del Entorno
   pip install ultralytics
   
   sudo apt install nvtop
