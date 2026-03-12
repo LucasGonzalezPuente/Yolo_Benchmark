@@ -9,6 +9,7 @@ Recomendado el uso de miniConda para gestionar el entorno
 
   ## Instalar librerías necesarias
   pip install ultralytics
+  sudo apt install nvtop
 
   [Para más información][https://github.com/ultralytics/ultralytics] 
 
@@ -43,7 +44,6 @@ Al ejecutar python src/main.py se abrira una ventana en vivo con los siguientes 
 
 
 En la imagen se ha usado nvtop para la muestra del rendimiento.
-Para descargar ejecutar: sudo apt install nvtop
 
 
 ![Demostración del Sistema](Ejemplo.png)
