@@ -8,6 +8,7 @@ Recomendado el uso de miniConda para gestionar el entorno
   - conda activate vision
 
   🛠️ Configuración del Entorno
+  
   pip install ultralytics
   
   sudo apt install nvtop
