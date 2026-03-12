@@ -9,6 +9,7 @@ Recomendado el uso de miniConda para gestionar el entorno
 
   ## Instalar librerías necesarias
   pip install ultralytics
+  
   sudo apt install nvtop
 
   [Para más información][https://github.com/ultralytics/ultralytics] 
